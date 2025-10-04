@@ -1,0 +1,6 @@
+{
+    "require": {
+        "evilfreelancer/routeros-api-php": "^1.6",
+        "dompdf/dompdf": "^3.1"
+    }
+}
